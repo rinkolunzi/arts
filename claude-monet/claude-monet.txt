@@ -1,0 +1,7 @@
+Name#claude-monet
+birthDate#14 November 1840
+birthPlace#Paris, France
+deathDate#05 December 1926
+Nationality#French
+Art_movement#impressionism
+Genre#all

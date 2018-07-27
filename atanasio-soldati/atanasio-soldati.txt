@@ -1,0 +1,7 @@
+Name#atanasio-soldati
+birthDate#24 August 1896
+birthPlace#Parma, Italy
+deathDate#27 August 1953
+Nationality#Italian
+Art_movement#concrete-art-concretism
+Genre#abstract

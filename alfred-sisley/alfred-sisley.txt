@@ -1,0 +1,7 @@
+Name#alfred-sisley
+birthDate#30 October 1839
+birthPlace#Paris, France
+deathDate#29 January 1899
+Nationality#French,British
+Art_movement#impressionism
+Genre#landscape
